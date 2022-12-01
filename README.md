@@ -10,6 +10,14 @@ In 2022 approximately five million cataract procedures will be performed in the 
 Cataract Surgery Animation: https://www.youtube.com/watch?v=n_3cG9oeuNo
 
 
+### Goals (The main focus is RL)
+- Find suiting RL algorithm
+- Connect SOFA and RL
+- Connect tearing plugin from ludwig (priority) or adapt it if needed
+- Focus on examples related to our examples or close 
+- New student dont wait for his work but try to benefit from the work, 
+- Test on pig eyes (best case)
+
 ### ToDo
 - Python + SOFA
 - RL
@@ -18,7 +26,9 @@ Cataract Surgery Animation: https://www.youtube.com/watch?v=n_3cG9oeuNo
   - https://github.com/alireza-montazeri/SofaTearing 
   - https://github.com/InfinyTech3D/Tearing
   - https://gitlab.com/polyakovkrylo/sofacutting/-/tree/dev
-- 
+- FEM models 
+- Mass spring networks
+
 
 ### References
 - SOFA Training Session 2020: Introduction to SOFA: https://www.youtube.com/watch?v=KHTAgD1oG8Y
